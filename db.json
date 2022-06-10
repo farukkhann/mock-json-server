@@ -1,5 +1,24 @@
 {
     "todo":[
-
+        {
+            "title": "learn todo aaaa",
+            "status": false,
+            "id": 4
+          },
+          {
+            "title": "learn cricket india",
+            "status": true,
+            "id": 5
+          },
+          {
+            "title": "learn football from me ",
+            "status": true,
+            "id": 6
+          },
+          {
+            "title": "learn javascript",
+            "status": false,
+            "id": 7
+          }
     ]
 }
